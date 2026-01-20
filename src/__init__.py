@@ -8,7 +8,7 @@ from .exact_solver import ExactSolver, compute_exact_energies
 from .plots import plot_energy_comparison, plot_convergence
 
 __version__ = '1.0.0'
-__author__ = 'Your Name'
+__author__ = 'Nikhil Roy'
 
 __all__ = [
     'IsingHamiltonian',
